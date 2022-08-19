@@ -18,9 +18,9 @@ https://user-images.githubusercontent.com/65121394/185651438-db81b611-63aa-4ff5-
 
 [Public Link to SkyGAN model] https://app.runwayml.com/models/madebyioo/SkyGAN
 
-# Running RunwayML on the webpage
+# Running RunwayML on the web
 
-## You can create a free acount with RunwayML.  
+## Ceate a free acount with RunwayML  
 
 - Note that there is a fee to upgrade to additional features.
 
@@ -39,8 +39,10 @@ https://user-images.githubusercontent.com/65121394/185651438-db81b611-63aa-4ff5-
 <img class="img" src="Assets/account.jpg" alt="ML Lab tab" style=" display: block;
     margin-left: auto;
     margin-right: auto;" width="400" height="400">
+    
+- Follow the steps below to navigate to the SkyGAN model
 
-# Running RunwayML locally.
+# Running RunwayML locally
 
 - If you want to view the images in a p5.js sketch, you will need download the RunwayML app and have it running locally on your computer.  
 
@@ -60,7 +62,7 @@ https://user-images.githubusercontent.com/65121394/185651438-db81b611-63aa-4ff5-
     margin-left: auto;
     margin-right: auto;" width="400" height="400">
 
-- Click on View All Models
+- Click View All Models
 
 <img class="img" src="Assets/browse_models.jpg" alt="Browse Models" style=" display: block;
     margin-left: auto;
@@ -72,7 +74,7 @@ https://user-images.githubusercontent.com/65121394/185651438-db81b611-63aa-4ff5-
     margin-left: auto;
     margin-right: auto;" width="600" height="400">
 
-- Add the SkyGAN model to your workspace. 
+- Add the SkyGAN model to your workspace
 
 - Once you have done that, choose Input: Vector and Run Remotely. 
  
@@ -91,7 +93,7 @@ https://user-images.githubusercontent.com/65121394/185651438-db81b611-63aa-4ff5-
 
 You can choose an image to download or export a mp4 file with the images in the RunwayML app. This will cost money.  When you sign up for an account, you get $10.00 in free credits.  You will need to purchase additional credits once the $10.00 is spent.  You can find out the estimated cost before you run the program.  
 
-# There are many models to choose from.  You can find more information about the available models in Browse models.
+# There are now many models to choose from.  You can find more information about the available models in Browse models.
 
 [RunwayML ML Lab page] https://app.runwayml.com/all-models
 
