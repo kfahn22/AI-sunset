@@ -2,8 +2,8 @@
 
 This work is based on the AI Rainbows Coding Challenge by Daniel Shiffman.  He used the "rainbows" checkpoint in his video.  Many more StyleGAN models have been added since the video was made (including some by Daniel--see below).  I decided to try out the SkyGAN model.
 
-[AI Rainbows Coding Challenge] https://thecodingtrain.com/challenges/150-ai-rainbows-with-runway-and-p5js
-[Link to p5.js sketch] https://editor.p5js.org/codingtrain/sketches/K6l0JbS6u
+- [AI Rainbows Coding Challenge] https://thecodingtrain.com/challenges/150-ai-rainbows-with-runway-and-p5js
+- [Link to p5.js sketch] https://editor.p5js.org/codingtrain/sketches/K6l0JbS6u
 
 # AI Sunset Montage using RunwayML and SkyGAN
 
