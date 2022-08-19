@@ -13,6 +13,8 @@ AI sunset montage using RunwayML and SkyGan
 
 ## Important Notes
 
-When you sign up for an account, you get $10.00 in free credits which you use to run the model remotely and export the MOV file.  You can find out the estimated cost before you run the program.  
+When you sign up for an account, you get $10.00 in free credits which you use to run the model remotely and export the MOV file.  You need to purchase additional credits when the $10.00 is spent.  You can find out the estimated cost before you run the program.  
 
-
+<video controls="controls" width="800" height="800" name="AI Sunset">
+  <source src="https://github.com/kfahn22/AI-sunset/Assets/AI-sunset.mp4">
+</video>
