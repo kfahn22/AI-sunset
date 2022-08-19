@@ -7,7 +7,7 @@ This work is based on the AI Rainbows Coding Challenge by Daniel Shiffman.  He u
 
 # AI sunset montage using RunwayML and SkyGAN
 
-- This sunset montage was created using an AI StyleGAN model called SkyGAN in the RunwayML app.
+This sunset montage was created using an AI StyleGAN model called SkyGAN in the RunwayML app.
 
 https://user-images.githubusercontent.com/65121394/185651438-db81b611-63aa-4ff5-87c8-9b5e67bdb03e.mp4
 
@@ -44,11 +44,11 @@ https://user-images.githubusercontent.com/65121394/185651438-db81b611-63aa-4ff5-
 
 # Running RunwayML locally
 
-- If you want to view the images in a p5.js sketch, you will need download the RunwayML app and have it running locally on your computer.  
+If you want to view the images in a p5.js sketch, you will need download the RunwayML app and have it running locally on your computer.  
 
-[RunwayML download page] https://runwayml.com/download/
+- [RunwayML download page] https://runwayml.com/download/
 
-- Once you have the RunwayML app on your computer, here is how you can navigate to the SkyGan model:
+Once you have the RunwayML app on your computer, here is how you can navigate to the SkyGan model:
 
 - In main page, click on ↕️ next to Sequel in the upper left corner of the menu.
 
