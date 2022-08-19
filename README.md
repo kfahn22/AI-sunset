@@ -26,7 +26,7 @@ https://user-images.githubusercontent.com/65121394/185651438-db81b611-63aa-4ff5-
 
 [RunwayML website] https://runwayml.com
 
-# Once you have created your account, navigate to the ML Lab page
+## Once you have created your account, navigate to the ML Lab page
 
 - Click on the account icon in upper right corner of menu.
 
@@ -42,17 +42,17 @@ https://user-images.githubusercontent.com/65121394/185651438-db81b611-63aa-4ff5-
 
 # Running RunwayML locally.
 
-## If you want to view the images in a p5.js sketch, you will need download the RunwayML app and have it running locally on your computer.  
+- If you want to view the images in a p5.js sketch, you will need download the RunwayML app and have it running locally on your computer.  
 
 [RunwayML download page] https://runwayml.com/download/
 
-## Once you have the RunwayML app on your computer, here is how you can navigate to the SkyGan model:
+- Once you have the RunwayML app on your computer, here is how you can navigate to the SkyGan model:
 
 - In main page, click on ↕️ next to Sequel in the upper left corner of the menu.
 
 <img class="img" src="Assets/main.jpg" alt="Main page" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" height="400">
+    margin-right: auto;" width="600" height="400">
 
 - Click on the ML Labs tab
 
@@ -64,30 +64,28 @@ https://user-images.githubusercontent.com/65121394/185651438-db81b611-63aa-4ff5-
 
 <img class="img" src="Assets/browse_models.jpg" alt="Browse Models" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" height="400">
+    margin-right: auto;" width="600" height="400">
 
 - Search for the SkyGAN model
 
 <img class="img" src="Assets/skygan.jpg" alt="SkyGAN model" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" height="400">
+    margin-right: auto;" width="600" height="400">
 
-## Add the SkyGAN model to your workspace. 
+- Add the SkyGAN model to your workspace. 
 
 - Once you have done that, choose Input: Vector and Run Remotely. 
  
  <img class="img" src="Assets/run.jpg" alt="Run remotely" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" height="400">
+    margin-right: auto;" width="600" height="400">
 
  
-## Wait for the vector to populate
-
-- This will take a while.  Once it is populated, you can run the p5.js sketch to view the sunsets as Daniel Shiffman demonstrated in the video. 
+- Wait for the vector to populate.  This will take a while.  Once it is populated, you can run the p5.js sketch to view the sunsets as Daniel Shiffman demonstrated in the video. 
 
  <img class="img" src="Assets/vector.jpg" alt="Populated Vector" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" height="400">
+    margin-right: auto;" width="600" height="400">
 
 # IMPORTANT!!
 
@@ -101,7 +99,7 @@ You can choose an image to download or export a mp4 file with the images in the 
 
 <img class="img" src="Assets/brownian.jpg" alt="Brownian snowflake" style=" display: block;
     margin-left: auto;
-    margin-right: auto;" width="400" height="400">
+    margin-right: auto;" width="600" height="400">
 
  
 
